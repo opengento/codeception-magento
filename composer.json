@@ -1,0 +1,30 @@
+{
+  "name"              : "PH2M/codeception-magento",
+  "description"       : "Acceptance, functional and units tests structure for Magento",
+  "type"              : "magento-module",
+
+  "keywords"          : ["magento","tests", "unit tests"],
+  "homepage"          : "https://github.com/PH2M/codeception-magento",
+  "license"           : "GNU",
+
+  "authors": [
+    {
+      "name"      : "Opengento",
+      "email"     : "opengento@gmail.com",
+      "homepage"  : "http://www.opengento.fr/",
+      "role"      : "developer"
+    }
+  ],
+
+  "require": {
+    "magento-hackathon/magento-composer-installer":"*",
+    "codeception/codeception":"*"
+  },
+
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "http://packages.firegento.com"
+    }
+  ]
+}

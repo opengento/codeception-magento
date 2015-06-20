@@ -1,0 +1,12 @@
+_data
+_output
+_support/AcceptanceHelper.php.template
+
+acceptance/_bootstrap.php
+acceptance/AcceptanceTester.php
+
+.htaccess
+_bootstrap.php
+
+acceptance.suite.yml
+acceptance.suite.yml.template
