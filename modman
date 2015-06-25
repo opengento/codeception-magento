@@ -5,7 +5,7 @@ tests/_output/.gitignore                tests/_output/.gitignore
 
 tests/_support/AcceptanceHelper.php.template     tests/_support/AcceptanceHelper.php
 
-tests/acceptance/AcceptanceTester.php   tests/acceptance/AcceptanceTester.php
+tests/acceptance/AcceptanceTester.php.template   tests/acceptance/AcceptanceTester.php
 
 tests/.htaccess                         tests/.htaccess
 tests/.gitignore.template               tests/.gitignore
