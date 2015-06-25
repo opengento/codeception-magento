@@ -3,7 +3,7 @@ codeception.yml							codeception.yml
 tests/_data/dump.sql                    tests/_data/dump.sql
 tests/_output/.gitignore                tests/_output/.gitignore
 
-tests/_support/AcceptanceHelper.php.template     tests/_support/AcceptanceHelper.php.template
+tests/_support/AcceptanceHelper.php.template     tests/_support/AcceptanceHelper.php
 
 tests/acceptance/AcceptanceTester.php   tests/acceptance/AcceptanceTester.php
 
@@ -11,4 +11,4 @@ tests/.htaccess                         tests/.htaccess
 tests/.gitignore.template               tests/.gitignore
 tests/_bootstrap.php                    tests/_bootstrap.php
 
-tests/acceptance.suite.yml.template     tests/acceptance.suite.yml.template
+tests/acceptance.suite.yml.template     tests/acceptance.suite.yml
