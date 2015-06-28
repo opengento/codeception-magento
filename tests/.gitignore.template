@@ -6,5 +6,5 @@ acceptance/AcceptanceTester.php
 acceptance.suite.yml
 
 .htaccess
-_bootstrap.php
+/_bootstrap.php
 
