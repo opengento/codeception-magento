@@ -1,12 +1,10 @@
 _data
 _output
-_support/AcceptanceHelper.php.template
 
-acceptance/_bootstrap.php
+_support/AcceptanceHelper.php
 acceptance/AcceptanceTester.php
+acceptance.suite.yml
 
 .htaccess
 _bootstrap.php
 
-acceptance.suite.yml
-acceptance.suite.yml.template

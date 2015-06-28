@@ -16,6 +16,8 @@ modules:
 env:
     local:
          modules:
+            enabled:
+                - Db
             config:
                 WebDriver:
                     url: 'http://www.localhost.dev/'
