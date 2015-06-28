@@ -1,6 +1,5 @@
 codeception.yml							codeception.yml
 
-tests/_data/dump.sql                    tests/_data/dump.sql
 tests/_output/.gitignore                tests/_output/.gitignore
 
 tests/_support/AcceptanceHelper.php.template     tests/_support/AcceptanceHelper.php.template

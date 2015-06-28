@@ -13,5 +13,16 @@ modules:
         WebDriver:
             browser: firefox
             window_size: maximize
-            wait: 2
-            url: 'http://www.localhost.com/'
+env:
+    local:
+         modules:
+            config:
+                WebDriver:
+                    url: 'http://www.localhost.dev/'
+                Db:
+                   dsn: 'mysql:host=localhost;dbname=magento_tests'
+                   user: 'root'
+                   password: '123'
+                   dump: 'tests/_data/dump-tests.sql'
+                   populate: true
+                   cleanup: false
