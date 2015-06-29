@@ -1,10 +1,10 @@
 {
-  "name"              : "PH2M/codeception-magento",
+  "name"              : "opengento/codeception-magento",
   "description"       : "Acceptance, functional and units tests structure for Magento",
   "type"              : "magento-module",
 
   "keywords"          : ["magento","tests", "unit tests"],
-  "homepage"          : "https://github.com/PH2M/codeception-magento",
+  "homepage"          : "https://github.com/opengento/codeception-magento",
   "license"           : "GNU",
 
   "authors": [
